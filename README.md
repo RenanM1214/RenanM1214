@@ -16,4 +16,7 @@
 
 ##
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula"/>
+</div>
