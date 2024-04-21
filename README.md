@@ -3,7 +3,7 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,sql,figma,vscode,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,figma,vscode,github&theme=dark" />
 
 ##
 
