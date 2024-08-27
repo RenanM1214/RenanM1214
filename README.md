@@ -10,7 +10,7 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,.,figma,vscode,pycharm,github,.,django,react,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,.,figma,vscode,pycharm,github,.,django,react,tensorflow&theme=dark" />
 
 ##
 
