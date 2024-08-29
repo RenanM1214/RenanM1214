@@ -31,9 +31,9 @@
         </a>
       </td>
       <!-- Espaço -->
-      <td width="320"></td>
+      <td width="320" style="border: none;"></td>
       <!-- GIF -->
-      <td>
+      <td >
         <a>
           <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" />
         </a>
