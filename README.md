@@ -21,15 +21,25 @@
 
 ##
 
-<div align="center" style="display: flex; gap: 30px; justify-content: center;">
-  <!-- Gráfico -->
-  <a href="https://github.com/RenanM1214">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-  <!-- GIF -->
-  <a>
-    <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" />
-  </a>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Gráfico -->
+      <td>
+        <a href="https://github.com/RenanM1214">
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
+        </a>
+      </td>
+      <!-- Espaço -->
+      <td width="50"></td>
+      <!-- GIF -->
+      <td>
+        <a>
+          <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
