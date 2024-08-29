@@ -1,5 +1,5 @@
 <br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=70&pause=1000&color=F7F7F7&width=1000&height=100&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=60&pause=1000&color=F7F7F7&center=true&width=800&height=100&lines=Welcome+to+my+GitHub" alt="Typing SVG" /></a>
 
 ## About me:
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello my name Renan Mattos. <br />
