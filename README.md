@@ -22,7 +22,7 @@
 ##
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <!-- Gráfico -->
       <td>
@@ -41,6 +41,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
