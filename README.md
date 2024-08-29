@@ -25,7 +25,7 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <!-- Gráfico -->
-      <td>
+      <td  border="0" cellspacing="0" cellpadding="0">
         <a href="https://github.com/RenanM1214">
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
         </a>
