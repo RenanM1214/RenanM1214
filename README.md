@@ -31,7 +31,7 @@
         </a>
       </td>
       <!-- Espaço -->
-      <td width="300"></td>
+      <td width="320"></td>
       <!-- GIF -->
       <td>
         <a>
