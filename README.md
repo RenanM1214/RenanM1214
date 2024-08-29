@@ -24,7 +24,7 @@
 <div align="center">
   <!-- Gráfico -->
   <a href="https://github.com/RenanM1214">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" style="margin-right: 30px;" />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" style="padding: 30px;" />
   </a>
   <!-- GIF -->
   <a>
