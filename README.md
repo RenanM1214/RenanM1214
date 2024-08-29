@@ -26,12 +26,12 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
   </a>
   <a style="flex: 1; text-align: right;">
-    <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" align="right"/>
+     <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="180" height="180" alt="Giphy GIF" align="right" />
   </a>
 </div>
 
 
-
+ 
 
 
 
