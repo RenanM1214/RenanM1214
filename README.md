@@ -21,14 +21,15 @@
 
 ##
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Gráfico -->
   <a href="https://github.com/RenanM1214">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" style="margin-right: 100px;" />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
   </a>
   <!-- GIF -->
-  <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" width="200" height="200" />
+  <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" />
 </div>
+
 
 
 
