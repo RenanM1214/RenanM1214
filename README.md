@@ -22,18 +22,18 @@
 ##
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; border: none;">
     <tr>
       <!-- Gráfico -->
-      <td>
+      <td style="border: none;">
         <a href="https://github.com/RenanM1214">
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
         </a>
       </td>
       <!-- Espaço -->
-      <td width="320" style="border: none;"></td>
+      <td style="border: none; width: 50px;"></td>
       <!-- GIF -->
-      <td >
+      <td style="border: none;">
         <a>
           <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" width="200" height="200" />
         </a>
@@ -41,6 +41,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
