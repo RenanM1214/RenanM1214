@@ -21,7 +21,7 @@
 
 ##
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
+<div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
   <a href="https://github.com/RenanM1214" style="flex: 1;">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
   </a>
