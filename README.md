@@ -22,7 +22,7 @@
 ##
 
 <div align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table style="border-spacing: 50px; border: none; width: auto;">
     <tr>
       <!-- Gráfico -->
       <td style="border: none;">
@@ -30,8 +30,6 @@
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
         </a>
       </td>
-      <!-- Espaço -->
-      <td style="border: none; width: 50px;"></td>
       <!-- GIF -->
       <td style="border: none;">
         <a>
@@ -41,6 +39,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
