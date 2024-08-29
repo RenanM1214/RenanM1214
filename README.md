@@ -27,7 +27,7 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanM1214&layout=compact&langs_count=7&theme=dracula" />
   </a>
   <!-- GIF -->
-  <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" style="margin-left: 50px;" width="200" height="200" />
+  <img src="https://media.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif" alt="Descrição do GIF" style="margin-left: 100px;" width="200" height="200" />
 </div>
 
 
