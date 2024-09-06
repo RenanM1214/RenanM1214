@@ -8,7 +8,7 @@
 
 ##
 
-## My Stack:
+## My Skills:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,.,figma,vscode,pycharm,github,.,django,react,tensorflow&theme=dark" />
 
