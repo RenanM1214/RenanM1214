@@ -8,7 +8,7 @@
 
 ##
 
-## My Skills:d
+## My Skills:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,.,figma,vscode,pycharm,arduino,.,django,react,tensorflow&theme=dark" />
 
