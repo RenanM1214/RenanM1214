@@ -7,7 +7,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Developer specialized in Python, focusing on Artificial Intelligence and systems, with additional experience in web development.<br />
 
 ##
-
+d
 ## My Skills:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,.,figma,vscode,pycharm,arduino,.,django,react,tensorflow&theme=dark" />
