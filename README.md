@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,.,figma,vscode,pycharm,arduino,.,django,react,tensorflow&theme=dark" />
 
 ##
-d
+
 ## Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrenanmattos/)
